@@ -1,0 +1,2 @@
+// switching database in mongosh
+use my_db
